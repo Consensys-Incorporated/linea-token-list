@@ -8,7 +8,7 @@
     {
       "major": 1,
       "minor": 80,
-      "patch": 0
+      "patch": 1
     }
   ],
   "tokens": [
@@ -542,7 +542,7 @@
       "decimals": 6,
       "createdAt": "2026-07-22",
       "updatedAt": "2026-07-22",
-      "logoURI": "https://images.ctfassets.net/4j2tco9amoqh/13g70nmIV6ieaT6an4O4cK/dd6445dbbb791665e0cde2c71af5294a/USDL_logo.png"
+      "logoURI": "https://images.ctfassets.net/4j2tco9amoqh/ekw4l3V8np3FcXo6lMeY5/67df4116cf4dc351326ccb53c1436db7/linea_usd_logo.png"
     },
     {
       "chainId": 59144,
