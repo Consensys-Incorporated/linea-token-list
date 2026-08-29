@@ -3,11 +3,11 @@
   "tokenListId": "https://raw.githubusercontent.com/Consensys/linea-token-list/main/json/linea-mainnet-token-shortlist.json",
   "name": "Linea Mainnet Token List",
   "createdAt": "2023-07-13",
-  "updatedAt": "2026-07-10",
+  "updatedAt": "2026-08-29",
   "versions": [
     {
       "major": 1,
-      "minor": 80,
+      "minor": 81,
       "patch": 0
     }
   ],
@@ -548,6 +548,19 @@
         "rootChainURI": "https://etherscan.io/block/0",
         "rootAddress": "0x1789e0043623282d5dcc7f213d703c6d8bafbb04"
       }
+    },
+    {
+      "chainId": 59144,
+      "chainURI": "https://lineascan.build/block/0",
+      "tokenId": "https://lineascan.build/address/0x91C4596B9Aba38CB46318F01A0C1943922f47aE5",
+      "tokenType": ["native"],
+      "address": "0x91C4596B9Aba38CB46318F01A0C1943922f47aE5",
+      "name": "Linea USD",
+      "symbol": "USDL",
+      "decimals": 6,
+      "createdAt": "2026-07-22",
+      "updatedAt": "2026-07-22",
+      "logoURI": "https://images.ctfassets.net/4j2tco9amoqh/ekw4l3V8np3FcXo6lMeY5/67df4116cf4dc351326ccb53c1436db7/linea_usd_logo.png"
     },
     {
       "chainId": 59144,
