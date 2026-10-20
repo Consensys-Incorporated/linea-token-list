@@ -1300,6 +1300,22 @@
       "createdAt": "2024-04-24",
       "updatedAt": "2024-04-24",
       "logoURI": "https://assets.coingecko.com/coins/images/37375/standard/image.png?1714884543"
+    },
+
+    {
+      "chainId": 59144,
+      "chainURI": "https://lineascan.build/block/0",
+      "tokenId": "https://lineascan.build/address/0x8253Bb8850f237C535Fe2970fc4c36e09b6647E2",
+      "tokenType": ["native"],
+      "address": "0x8253Bb8850f237C535Fe2970fc4c36e09b6647E2",
+      "name": "Universe Ethernum",
+      "symbol": "UETH",
+      "decimals": 18,
+      "createdAt": "2026-05-18",
+      "updatedAt": "2026-10-19",
+      "logoURI": "https://raw.githubusercontent.com/Keyl10/linea-token-list/4c306f301fafb6c84daa2823c4220a5813447a12/logo/ueth.png"
     }
+
+    
   ]
 }
