@@ -1118,7 +1118,7 @@
 {
 "chainId": 59144,
 "chainURI": "https://lineascan.build/block/0",
-"tokenId": "https://lineascan.build/tx/0x5c6d11dad966d2b1d16d61a57496f5fae38037cf14eef7783c621d9af7467609",
+"tokenId": "https://lineascan.build/address/0x8253Bb8850f237C535Fe2970fc4c36e09b6647E2",
 "tokenType": ["native"],
 "address": "0x8253Bb8850f237C535Fe2970fc4c36e09b6647E2",
 "name": "Universe Ethernum",
