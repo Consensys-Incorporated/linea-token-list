@@ -10,7 +10,7 @@ on:
 
 jobs:
   verify_mainnet_shortlist:
-    runs-on: ubuntu-latest
+    runs-on: gha-runner-scale-set-ubuntu-24-amd64-med
 
     env:
       PROVIDER_URL: ${{ secrets.PROVIDER_URL }}
