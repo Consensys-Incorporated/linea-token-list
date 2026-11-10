@@ -9,7 +9,7 @@ the [Linea Developer Hub](https://developer.linea.build).
 ## Requirements
 
 - [Node.js](https://nodejs.org/) v24.22.1 (see [`.nvmrc`](./.nvmrc))
-- [npm](https://docs.npmjs.com/) v10.0.0+ (ships with Node.js; pinned to `10.9.2` via `packageManager`)
+- [npm](https://docs.npmjs.com/) v12.2.1+ (pinned to `12.2.1` via `packageManager`; install with `npm install -g npm@12.2.1`)
 
 ## Getting Started
 
@@ -79,7 +79,7 @@ linea-token-list/
 
 **Key tooling:**
 
-- **Package manager**: npm (strict engine enforcement via `.npmrc`)
+- **Package manager**: npm 12 (strict engine enforcement and 7-day minimum release age via `.npmrc`)
 - **Linting**: ESLint with `typescript-eslint`
 - **Formatting**: Prettier
 - **Testing**: Jest with `ts-jest`
