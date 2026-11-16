@@ -7,7 +7,7 @@
   "versions": [
     {
       "major": 1,
-      "minor": 81,
+      "minor": 82,
       "patch": 0
     }
   ],
@@ -339,6 +339,19 @@
         "rootChainURI": "https://etherscan.io/block/0",
         "rootAddress": "0xEc2d99DeA2c9E1d69c0A3C03FDC1776ECa24182a"
       }
+    },
+    {
+      "chainId": 59144,
+      "chainURI": "https://lineascan.build/block/0",
+      "tokenId": "https://lineascan.build/address/0x58538e6a46e07434d7e7375bc268d3cb839c0133",
+      "tokenType": ["native"],
+      "address": "0x58538e6A46E07434d7E7375Bc268D3cb839C0133",
+      "name": "ENA - TEST ALAIN",
+      "symbol": "ENA",
+      "decimals": 18,
+      "createdAt": "2026-11-16",
+      "updatedAt": "2026-11-16",
+      "logoURI": "https://static.debank.com/image/linea_token/logo_url/0x58538e6a46e07434d7e7375bc268d3cb839c0133/20d567bc301b43d0d2131731f7ac4736.png"
     },
     {
       "chainId": 59144,
